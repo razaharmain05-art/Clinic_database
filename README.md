@@ -146,6 +146,4 @@ LIMIT 5;
 
 See the full discussion in `Synthetic Outpatient Clinic Database.pdf`.
 
-## Licence
 
-Created for academic coursework. The data is entirely synthetic and free to use for learning and demonstration.
