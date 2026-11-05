@@ -1,0 +1,8 @@
+# Required: generates the fake patient and doctor names
+faker>=20.0.0
+
+# Optional: only needed to run the notebook locally (Colab already has these)
+notebook>=7.0.0
+
+# Everything else the code uses (sqlite3, random, datetime, re, os)
+# is part of the Python standard library, so nothing more to install.
